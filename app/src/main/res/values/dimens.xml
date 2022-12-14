@@ -2,5 +2,8 @@
 <resources>
     <dimen name="image_width_main">335dp</dimen>
     <dimen name="image_height_main">258dp</dimen>
+
+    <dimen name="app_margin">15dp</dimen>
+
     <dimen name="text_size_large">35sp</dimen>
 </resources>
