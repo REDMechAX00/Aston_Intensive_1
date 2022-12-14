@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AstonIntensive1</string>
+    <string name="hello_aston">Hello Aston!</string>
+    <string name="desc_main_image">I AM SUPPORT</string>
 </resources>
